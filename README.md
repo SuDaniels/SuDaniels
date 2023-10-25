@@ -1,7 +1,7 @@
 ### Hi, I am Oluwaseun Daniel 👋
 I'm a passionate Data Analyst who excels in various Business Intelligent tools to transform data into meaningful insights. 
 I'm proficient in data visualization with Power BI, Tableau and Excel
-I'm dedicated to driving impactful decisions. Let's connect on LinkedIn to explore my journey
+I'm dedicated to driving impactful decisions. Let's connect on LinkedIn to explore my journey.
 <!--
 **SuDaniels/SuDaniels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
