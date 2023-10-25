@@ -1,4 +1,4 @@
-### Hi! I am Oluwaseun Daniel 👋
+### Hi, I am Oluwaseun Daniel 👋
 I'm a passionate Data Analyst who excels in PowerBi and SQL, transforming data into meaningful insights. 
 I'm proficient in data visualization with Power BI, Tableau and Excel
 I'm dedicated to driving impactful decisions. Let's connect on LinkedIn to explore my journey
