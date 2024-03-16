@@ -1,9 +1,7 @@
 ### Hi, I am Oluwaseun Daniel 👋
-I'm a passionate Data Analyst who excels in various Business Intelligent tools to transform data into meaningful insights. 
+I'm a passionate Tech Evangelist who excels in various Business Intelligent and Web Development tools. 
 I am Nigerian. I live in Lagos, Nigeria.
-👀 I have been on this journey since March 2021. I have a decent grasp of Excel, SQL, Tableau and PowerBI.
-🌱 I have taken and completed Quantum's Data Analytics Nanodegree course and also Database management course with HIIT.ng.
-💞️ I’m looking to collaborate on Excel, SQL, PowerBI and Frond-end development projects.
+💞️ I’m looking to collaborate on Data Visualisation and Frond-end development projects.
 I'm proficient in data visualization with Power BI, Tableau, Excel and Front-end development tools like HTML, CSS, SASS, Javascript and React JS.
 I'm dedicated to driving impactful decisions wita data and thrive on turning code into art dedicated to creating accessible web applications that users truly enjoy on the development space. Let's connect on LinkedIn to explore my journey.
 <!--
